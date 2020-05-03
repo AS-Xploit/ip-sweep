@@ -7,7 +7,11 @@ clone this repo into your linux machine by the below command.
 > git clone https://github.com/AS-Xploit/ip-sweep
 
 It take some time to clone, depends on your network speed
-After cloning this Repository, Change its permission to executable file by writting the below command
+After cloning this Repository, goto repo directiory
+
+> cd ip-sweep/
+
+Change its permission to executable file by writting the below command
 
 > chmod +x ipsweep.sh
 
