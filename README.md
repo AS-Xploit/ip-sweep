@@ -17,7 +17,7 @@ Change its permission to executable file by writting the below command
 
 Now run the tool by the commands
 
-> ./ipsweep.sh
+> ./ipsweep.sh (target ip range eg: 192.168.0)
 
 
 ### Usage and Advantages
